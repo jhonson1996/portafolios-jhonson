@@ -45,7 +45,7 @@ export const Contact = () => {
           <div className={style.information}>
             <Arrow />
             <Zizack />
-            <Title text="Contactaté" highlight="Conmigo" />
+            <Title text="Contacta" highlight="Conmigo" />
             <p className={style.description}>
               Gracias por llegar hasta aquí, si crees que puedo aportar valor a
               tu equipo, no dudes en escribirme.
