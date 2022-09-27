@@ -45,7 +45,7 @@ export const Hero = () => {
               fácil.
             </p>
             <a className={style.button} href="#contact">
-              Contactate conmigo
+              Contacta conmigo
             </a>
           </div>
         </div>

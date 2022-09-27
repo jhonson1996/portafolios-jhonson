@@ -12,7 +12,7 @@ export const Projects = () => {
             <Starts />
             <Title text="Mis" highlight="Proyectos" />
             <p className={style.description}>
-              Trabaje en 7 meses en una empresa Inmobiliaria llamada Yampi como desarrollador y maquetardor de sus paginas web Dashboar y Clientes
+              Trabaje en 7 meses en una empresa Inmobiliaria llamada Yampi como desarrollador y maquetardor de sus paginas web Dashboard y Clientes
             </p>
           </div>
         </div>
