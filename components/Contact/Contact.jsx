@@ -102,7 +102,7 @@ export const Contact = () => {
                   Enviando...
                 </button>
               ) : (
-                <button className={style.button}>Enviar mensajito</button>
+                <button className={style.button}>Enviar mensaje</button>
               )}
             </form>
           </div>

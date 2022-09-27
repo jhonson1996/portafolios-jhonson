@@ -8,7 +8,7 @@ import Target from "../../public/target.svg";
 
 export const Hero = () => {
   return (
-    <main className={style.hero} aria-label="Hero David Mario Licla">
+    <main className={style.hero} aria-label="Jhon alexander caicedo">
       <Wrapper>
         <div className={style.content}>
           <div className={style.wrapperPhoto}>
@@ -37,7 +37,7 @@ export const Hero = () => {
             <p className={style.name}>Jhon Alexander</p>
             <h1 className={style.title}>
               <strong className={style.highlightBlue}>Front End</strong>{" "}
-              Delevoment
+              Development
             </h1>
             <p className={style.description}>
               Ser Front End es increíble. No solo creamos interfaces hermosas
