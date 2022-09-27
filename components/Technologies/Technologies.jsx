@@ -25,9 +25,7 @@ export const Technologies = () => {
     { id: "8", name: "Next", image: logoNext },
     { id: "9", name: "TypeScript", image: logoTS },
     { id: "10", name: "Tailwindcss", image: tailwindcss },
-    { id: "11", name: "Jest", image: logoJest },
     { id: "12", name: "Firebase", image: logoFirebase },
-    { id: "13", name: "Testing", image: logoTesting },
   ];
 
   const hiddenTech = (name) => {
