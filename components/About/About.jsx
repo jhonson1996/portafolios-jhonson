@@ -11,7 +11,7 @@ export const About = () => {
             <DownArrow />
             <Title text="Sobre" highlight="Mí" />
             <p className={style.text}>
-              Me llamo Jhon Alexander Licla nací en la sucursal del cielo ☀
+              Me llamo Jhon Alexander Caicedo nací en la sucursal del cielo ☀
               llamada Cali en Colombia.
               <br />
               <br />
